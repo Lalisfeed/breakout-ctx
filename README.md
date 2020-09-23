@@ -1,4 +1,4 @@
-# Breakout-Ctx from Lalisfeed
+# Breakout-Ctx from Lalisfeed <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.breakout-ctx" />
 
 This is a simple breakout game built (currently building) 
 
