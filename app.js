@@ -211,3 +211,4 @@ update();
 body.style.backgroundColor = colorTrio;
 document.addEventListener('keydown', keyDown);
 document.addEventListener('keyup', keyUp);
+console.log('flag{Th1s_1s_4_fl4g}')
